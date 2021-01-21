@@ -14,7 +14,7 @@ module.exports = {
                 message.channel.send(`<@${member.id}> who am I going to kick? dumb`)
             }
         }else{
-            message.channel.send(`<@${member.id} you don't even have the perms! lol!`)
+            message.channel.send(`<@${member.id}> you don't even have the perms! lol!`)
         }
     }
 }
